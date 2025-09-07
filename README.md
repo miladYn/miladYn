@@ -17,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladyn&show_icons=true&locale=en&layout=compact" alt="miladyn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miladyn&show_icons=true&locale=en" alt="miladyn" /></p>
-![CII Best Practices](https://img.shields.io/cii/percentage/1?style=for-the-badge)
