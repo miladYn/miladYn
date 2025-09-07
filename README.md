@@ -23,7 +23,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladYn&exclude_repo=miladYn&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miladyn&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladyn&show_icons=true&locale=en&layout=compact" alt="miladyn" /></p>
+## 📈 فعالیت روزانه من
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miladyn&theme=react-dark&area=true&hide_border=true" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miladyn&show_icons=true&locale=en" alt="miladyn" /></p>
