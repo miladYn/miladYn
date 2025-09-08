@@ -20,9 +20,11 @@
 ---
 
 ### 🌐 Connect with me
-<p align="center">
-  <!-- اینجا میتونی لینک شبکه‌های اجتماعی مثل LinkedIn یا Gmail بذاری -->
-</p>
+<div align ="center">
+  
+[![Email](https://img.shields.io/badge/Email-me-blue)](mailto:miladyousefinasab@gmail.com)
+</div>
+
 
 ---
 
